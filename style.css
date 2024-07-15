@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+/* font-family: "Open Sans", sans-serif; */
+.center{
+  display: block;
+}
+
+  #hero {
+    text-align: center;
+  }
+  
+  #hero .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #hero h1 {
+    font-size: 2em;
+    margin-top: 20px;
+  }
+  
+  #hero p {
+    font-size: 1em;
+    margin-top: 10px;
+  }
+  
+  #hero button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: rgb(204, 135, 135);
+  }
+  #hero{
+  /* Hero-bg */
+
+
+
+    background-image: url(../assets/Hero-bg.png);
+    
+    
+    background-size: auto;
+    background-position-x: center;
+
+}
+
